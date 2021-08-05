@@ -1,0 +1,20 @@
+Added Component: Designator=C18(CAPC1005X56X25ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0402YC103MAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC1005X56X25ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0402YC104KAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=H2(H5P2.54)
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=+3.3V Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=+3.3V Pin=C19-2
+Added Pin To Net: NetName=NetH2_1 Pin=H2-1
+Added Pin To Net: NetName=NetH2_2 Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H2-3
+Added Pin To Net: NetName=VDD Pin=H2-4
+Added Pin To Net: NetName=NetC5_2 Pin=H2-5
+Added Member To Class: ClassName=Sheet1 Member=Component C18 10nF
+Added Member To Class: ClassName=Sheet1 Member=Component C19 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component H2 H5P2.54
+Added Room: Name=Sheet1

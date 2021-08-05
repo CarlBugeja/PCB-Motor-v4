@@ -1,0 +1,35 @@
+Teardrop Report PCB1.PcbDoc
+On 12/03/2021 at 16:54:30
+
+Pads visited                : 4
+
+Vias visited                : 18
+
+Pad teardrops failed : 0
+
+Pad Free-(-30.426mm,-66.413mm) on Multi-Layer
+Pad Free-(-32.996mm,-74.803mm) on Multi-Layer
+Pad Free-(-30.426mm,-74.803mm) on Multi-Layer
+Pad Free-(-27.856mm,-74.803mm) on Multi-Layer
+
+Via teardrops failed : 0
+
+Via (-33.612mm,-71.734mm) from Top Layer to Bottom Layer
+Via (-33.503mm,-61.173mm) from Top Layer to Bottom Layer
+Via (-27.427mm,-61.128mm) from Top Layer to Bottom Layer
+Via (-34.839mm,-63.836mm) from Top Layer to Bottom Layer
+Via (-34.323mm,-64.163mm) from Top Layer to Bottom Layer
+Via (-25.987mm,-63.879mm) from Top Layer to Bottom Layer
+Via (-26.528mm,-64.163mm) from Top Layer to Bottom Layer
+Via (-24.349mm,-66.368mm) from Top Layer to Bottom Layer
+Via (-34.323mm,-68.663mm) from Top Layer to Bottom Layer
+Via (-34.864mm,-68.947mm) from Top Layer to Bottom Layer
+Via (-26.528mm,-68.663mm) from Top Layer to Bottom Layer
+Via (-26.012mm,-68.99mm) from Top Layer to Bottom Layer
+Via (-36.502mm,-66.458mm) from Top Layer to Bottom Layer
+Via (-30.45mm,-71.524mm) from Top Layer to Bottom Layer
+Via (-30.426mm,-70.913mm) from Top Layer to Bottom Layer
+Via (-30.426mm,-61.913mm) from Top Layer to Bottom Layer
+Via (-30.401mm,-61.302mm) from Top Layer to Bottom Layer
+Via (-27.464mm,-71.558mm) from Top Layer to Bottom Layer
+

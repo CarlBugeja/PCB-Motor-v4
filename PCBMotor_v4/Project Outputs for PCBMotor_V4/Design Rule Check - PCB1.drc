@@ -1,0 +1,93 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\carlb\Dropbox\My Projects\Brushless PCB Motors\v4\PCBMotor_v4\PCB1.PcbDoc
+Date     : 15/03/2021
+Time     : 16:58:04
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: GND_L01_P005 In net GND
+   Polygon named: NETR7_2_L01_P016
+   Polygon named: NETR7_2_L03_P010
+   Polygon named: +3.3V_L04_P027
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad Free-(31.339mm,57.031mm) on Multi-Layer And Track (28.067mm,53.415mm)(31.339mm,56.687mm) on Layer 2 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad Free-(31.339mm,57.031mm) on Multi-Layer And Track (31.339mm,54.989mm)(31.339mm,57.031mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad Free-(31.339mm,57.031mm) on Multi-Layer And Track (31.339mm,56.687mm)(31.339mm,57.031mm) on Layer 2 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad Free-(31.339mm,57.031mm) on Multi-Layer And Track (31.339mm,57.031mm)(31.339mm,59.938mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad Free-(33.909mm,57.031mm) on Multi-Layer And Track (33.909mm,55.431mm)(33.909mm,56.346mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad Free-(33.909mm,57.031mm) on Multi-Layer And Track (33.909mm,55.602mm)(33.909mm,57.031mm) on Layer 2 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad Free-(33.909mm,57.031mm) on Multi-Layer And Track (33.909mm,56.346mm)(33.909mm,57.031mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad Free-(33.909mm,57.031mm) on Multi-Layer And Track (33.909mm,57.031mm)(33.909mm,58.974mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad U2-10(35.175mm,53.201mm) on Top Layer And Polygon Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Polygon Region (0 hole(s)) Layer 2 And Track (30.441mm,54.798mm)(37.019mm,54.798mm) on Layer 2 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Polygon Region (0 hole(s)) Top Layer And Track (31.339mm,54.989mm)(31.339mm,57.031mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Polygon Region (0 hole(s)) Top Layer And Track (31.339mm,54.989mm)(31.908mm,54.421mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Polygon Region (0 hole(s)) Top Layer And Track (31.908mm,54.421mm)(34.668mm,54.421mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Polygon Region (0 hole(s)) Top Layer And Track (34.668mm,54.421mm)(35.148mm,53.941mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Polygon Region (0 hole(s)) Top Layer And Track (35.148mm,53.941mm)(35.175mm,53.941mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Polygon Region (0 hole(s)) Top Layer And Track (35.175mm,53.201mm)(35.175mm,53.941mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Polygon Region (0 hole(s)) Top Layer And Track (35.202mm,49.501mm)(35.202mm,50.431mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Polygon Region (1 hole(s)) Top Layer And Track (33.909mm,55.431mm)(33.909mm,56.346mm) on Top Layer 
+Rule Violations :18
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad Free-(31.339mm,57.031mm) on Multi-Layer And Track (28.067mm,53.415mm)(31.339mm,56.687mm) on Layer 2 Location : [X = 72.813mm][Y = 58.715mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-(31.339mm,57.031mm) on Multi-Layer And Track (31.339mm,54.989mm)(31.339mm,57.031mm) on Top Layer Location : [X = 73.118mm][Y = 59.074mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-(31.339mm,57.031mm) on Multi-Layer And Track (31.339mm,56.687mm)(31.339mm,57.031mm) on Layer 2 Location : [X = 73.118mm][Y = 59.101mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-(31.339mm,57.031mm) on Multi-Layer And Track (31.339mm,57.031mm)(31.339mm,59.938mm) on Top Layer Location : [X = 73.118mm][Y = 59.658mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-(33.909mm,57.031mm) on Multi-Layer And Track (33.909mm,55.431mm)(33.909mm,56.346mm) on Top Layer Location : [X = 75.688mm][Y = 58.732mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-(33.909mm,57.031mm) on Multi-Layer And Track (33.909mm,55.602mm)(33.909mm,57.031mm) on Layer 2 Location : [X = 75.688mm][Y = 58.887mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-(33.909mm,57.031mm) on Multi-Layer And Track (33.909mm,56.346mm)(33.909mm,57.031mm) on Top Layer Location : [X = 75.688mm][Y = 58.931mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-(33.909mm,57.031mm) on Multi-Layer And Track (33.909mm,57.031mm)(33.909mm,58.974mm) on Top Layer Location : [X = 75.688mm][Y = 59.658mm]
+   Violation between Short-Circuit Constraint: Between Pad U2-10(35.175mm,53.201mm) on Top Layer And Polygon Region (0 hole(s)) Top Layer Location : [X = 76.954mm][Y = 55.6mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (0 hole(s)) Layer 2 And Track (30.441mm,54.798mm)(37.019mm,54.798mm) on Layer 2 Location : [X = 78.496mm][Y = 57.04mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (0 hole(s)) Top Layer And Track (31.339mm,54.989mm)(31.339mm,57.031mm) on Top Layer Location : [X = 73.118mm][Y = 57.501mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (0 hole(s)) Top Layer And Track (31.339mm,54.989mm)(31.908mm,54.421mm) on Top Layer Location : [X = 73.402mm][Y = 56.947mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (0 hole(s)) Top Layer And Track (31.908mm,54.421mm)(34.668mm,54.421mm) on Top Layer Location : [X = 75.066mm][Y = 56.663mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (0 hole(s)) Top Layer And Track (34.668mm,54.421mm)(35.148mm,53.941mm) on Top Layer Location : [X = 76.687mm][Y = 56.423mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (0 hole(s)) Top Layer And Track (35.148mm,53.941mm)(35.175mm,53.941mm) on Top Layer Location : [X = 76.94mm][Y = 56.183mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (0 hole(s)) Top Layer And Track (35.175mm,53.201mm)(35.175mm,53.941mm) on Top Layer Location : [X = 76.954mm][Y = 55.877mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (0 hole(s)) Top Layer And Track (35.202mm,49.501mm)(35.202mm,50.431mm) on Top Layer Location : [X = 76.976mm][Y = 51.86mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (1 hole(s)) Top Layer And Track (33.909mm,55.431mm)(33.909mm,56.346mm) on Top Layer Location : [X = 75.688mm][Y = 57.723mm]
+Rule Violations :18
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetR11_2 Between Track (35.202mm,49.501mm)(35.202mm,50.431mm) on Top Layer And Track (30.441mm,54.798mm)(37.019mm,54.798mm) on Layer 2 
+   Violation between Un-Routed Net Constraint: Net NetR7_2 Between Track (31.339mm,56.687mm)(31.339mm,57.031mm) on Layer 2 And Track (31.339mm,57.031mm)(31.339mm,59.938mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR9_2 Between Track (33.909mm,55.602mm)(33.909mm,57.031mm) on Layer 2 And Track (36.31mm,52.566mm)(36.31mm,53.945mm) on Top Layer 
+Rule Violations :3
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (+3.3V_L04_P027) on Bottom Layer 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (GND_L01_P005) on Top Layer 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (NETR7_2_L01_P016) on Top Layer 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (NETR7_2_L03_P010) on Layer 2 
+Rule Violations :4
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=5mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (30.441mm,54.798mm)(37.019mm,54.798mm) on Layer 2 
+   Violation between Net Antennae: Track (31.339mm,56.687mm)(31.339mm,57.031mm) on Layer 2 
+   Violation between Net Antennae: Track (33.909mm,55.431mm)(33.909mm,56.346mm) on Top Layer 
+   Violation between Net Antennae: Track (33.909mm,55.602mm)(33.909mm,57.031mm) on Layer 2 
+   Violation between Net Antennae: Track (35.202mm,49.501mm)(35.202mm,50.431mm) on Top Layer 
+Rule Violations :5
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 48
+Waived Violations : 0
+Time Elapsed        : 00:00:01

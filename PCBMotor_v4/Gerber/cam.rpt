@@ -1,0 +1,17 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\carlb\Dropbox\My Projects\Brushless PCB Motors\v4\PCBMotor_v4\Gerber\cam.drl
+Format: 4.4
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.2000		174
+ 2 		0.3000		720
+ 3 		0.7112		72
+ 4 		1.0000		15
+ 5 		1.0200		21
+ 6 		2.0000		5

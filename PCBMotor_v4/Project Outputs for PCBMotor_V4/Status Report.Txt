@@ -1,0 +1,14 @@
+Source PCB Design PCB4.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCBMotor_V4.PrjPcb]
+   Generated File[PCB4.TXT]
+   Generated File[PCB4.LDP]
+   Generated File[PCB4.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 08:56:10 On 17/03/2021
