@@ -1,8 +1,0 @@
-Added Component: Designator=H2(H5P2.54*)
-Added Pin To Net: NetName=NetH2_1 Pin=H2-1
-Added Pin To Net: NetName=NetH2_2 Pin=H2-2
-Added Pin To Net: NetName=GND Pin=H2-3
-Added Pin To Net: NetName=VDD Pin=H2-4
-Added Pin To Net: NetName=NetC5_2 Pin=H2-5
-Added Member To Class: ClassName=Sheet1 Member=Component H2 H5P2.54
-Added Room: Name=Sheet1

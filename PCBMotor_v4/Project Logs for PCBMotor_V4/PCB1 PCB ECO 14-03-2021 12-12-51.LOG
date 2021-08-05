@@ -1,7 +1,0 @@
-Added Component: Designator=C3(CAPC1005X56X25LL10T15)
-Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Part Number"; Value = "0402YC103MAT2A"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=GND Pin=C3-1
-Added Pin To Net: NetName=NetC2_2 Pin=C3-2
-Added Member To Class: ClassName=Sheet1 Member=Component C3 10nF
-Added Room: Name=Sheet1
